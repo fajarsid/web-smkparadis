@@ -166,6 +166,8 @@ if ($pg == 'profile') {
 		'jenjang' => $_POST['jenjang'],
 		'nama_sekolah' => ucwords(strtoupper($nama)),
         'status' => $_POST['status'],
+        'ket' => $_POST['visi'],
+        'ket_misi' => $_POST['misi'],
         
     ];
 	$where = [
