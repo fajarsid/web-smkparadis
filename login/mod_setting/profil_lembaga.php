@@ -108,6 +108,14 @@
                                         value="<?= $setting['ket_misi'] ?>" required>
                                 </div>
                             </div>
+                            <div class="form-group row align-items-center">
+                                <label for="site-title"
+                                    class="form-control-label col-sm-3 text-md-right">Strategi</label>
+                                <div class="col-sm-6 col-md-9">
+                                    <input type="text" name="misi" class="form-control"
+                                        value="<?= $setting['ket_misi'] ?>" required>
+                                </div>
+                            </div>
                             <div class="card-footer bg-whitesmoke text-md-right">
                                 <button type="submit" class="btn btn-primary" id="save-btn">Save Changes</button>
                                 <button class="btn btn-secondary" type="button">Reset</button>

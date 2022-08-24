@@ -174,10 +174,10 @@
                             Terampil Dan Berdaya Guna</p>
                         <h4 class="fs-1 fw-bold">Misi</h4>
                         <p class="mb-4 fw-medium text-secondary">1. Menjungjung tinggi nilai-nilai agama, budaya dan
-                            bangsa<br />that won't cost you money,</p>
+                            bangsa<br />.....</p>
                         <h4 class="fs-1 fw-bold">Startegi</h4>
                         <p class="mb-4 fw-medium text-secondary">1. Menyiapkan peserta didik agar menjadi manusia
-                            produktif dan berdaya guna.....<br />that won't cost you more money,</p>
+                            produktif dan berdaya guna.....<br />.....</p>
                     </div>
                     <div class="col-lg-6"><img class="img-fluid" src="assets/img/validation/validation.png" alt="" />
                     </div>
